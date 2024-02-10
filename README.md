@@ -22,3 +22,9 @@ Other Technology Stack used:
 Output: You will have a working model of your HTML version of your resume deployed on AWS Cloud by effectively using AWS services and have a viewr count of stored in DynamoDB which can be viewed on the websitte. 
 
 Here is my Working model: https://resume.tarunsrinivasgarapati.com/ 
+
+![AWScloudresumechallengearchitecture](https://github.com/Garapati29/AWS-Cloud-resume-challenge/assets/125094032/e25cca61-f8af-4c50-ac80-1ffe2656afe2)
+
+
+
+
